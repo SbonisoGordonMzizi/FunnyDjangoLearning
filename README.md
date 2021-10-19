@@ -1,0 +1,2 @@
+# FunnyDjangoLearning
+Learning Django
